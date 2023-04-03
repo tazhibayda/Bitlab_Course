@@ -1,8 +1,8 @@
-package com.example.bitlab_course;
+package com.example.bitlab_course.Servlet;
 
 
 
-import com.example.Entity.Person;
+import com.example.bitlab_course.Entity.Person;
 
 import javax.servlet.ServletException;
 
@@ -37,7 +37,6 @@ public class HomeServlet extends HttpServlet {
 
 
     @Override
-
     protected void doGet(HttpServletRequest request,
 
                          HttpServletResponse response) throws ServletException, IOException {

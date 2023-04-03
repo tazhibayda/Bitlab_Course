@@ -1,4 +1,4 @@
-package com.example.Entity;
+package com.example.bitlab_course.Entity;
 
 public class Person {
     String Name;

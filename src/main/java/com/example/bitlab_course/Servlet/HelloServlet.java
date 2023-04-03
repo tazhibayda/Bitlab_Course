@@ -1,4 +1,4 @@
-package com.example.bitlab_course;
+package com.example.bitlab_course.Servlet;
 
 import java.io.*;
 
